@@ -1,2 +1,4 @@
-# sysadmin-scripts
-scripts to help a sysadmin
+sysadmin scripts
+----------------
+
+scripts to help with sysadmin tasks
